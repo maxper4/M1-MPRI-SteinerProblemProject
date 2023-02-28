@@ -1,0 +1,25 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Le Problème de l'arbre de Steiner}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Description et modélisation}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Complexité}{2}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Classe NP}{2}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Réduction de Set-Cover à Steiner}{3}{}%
+\contentsline {section}{\numberline {2}Approximation}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Algorithme}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Rapport d'approximation}{6}{}%
+\contentsline {section}{\numberline {3}Métaheuristique}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Recuit Simulé}{7}{}%
+\contentsline {subsection}{\numberline {3.2}Algorithme génétique}{8}{}%
+\contentsline {subsection}{\numberline {3.3}Représentation d'une solution}{9}{}%
+\contentsline {subsection}{\numberline {3.4}Voisinage entre solutions}{10}{}%
+\contentsline {subsection}{\numberline {3.5}Fonction d'évaluation d'une solution}{10}{}%
+\contentsline {section}{\numberline {4}Résultats expérimentaux}{11}{}%
+\contentsline {subsection}{\numberline {4.1}Recuit Simulé}{11}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Mise à jour de la température}{11}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}Températures de départ et d'arrivée}{13}{}%
+\contentsline {subsection}{\numberline {4.2}Algorithme Génétique}{14}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Nombre d'individu et d'enfants}{14}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Mutation}{14}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Nombre de générations}{15}{}%
+\contentsline {subsection}{\numberline {4.3}Performances}{16}{}%
+\contentsline {section}{\numberline {5}Conclusion}{17}{}%
